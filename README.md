@@ -1,4 +1,4 @@
-# A voice-activated teleprompter
+# A voice-activated teleprompter PWA
 
 **development in progress**
 
